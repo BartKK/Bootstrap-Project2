@@ -1,0 +1,57 @@
+.carousel-inner > .item > img{
+  width: 100%;
+}
+
+.container {
+      padding: 60px 50px;
+  }
+
+.bg-jumbo{
+  background-color: #75b1A9;
+}
+.bg-carousel{
+  background-color: BurlyWood;
+}
+.bg-form{
+  background-color: chocolate;
+}
+.bg-table{
+  background-color: goldenrod;
+}
+.bg-gallery{
+  background-color: peru;
+}
+.table-striped{
+  background-color: SteelBlue;
+  border: 5px;
+}
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: SlateGray;
+ }
+
+.thumbnail{
+  background-color: grey;
+  padding: 0px;
+  margin: 10px;
+  border:0px;
+}
+.thumb-gutter{
+  padding: 0;
+  margin:0;
+}
+.head{
+  padding: 5px;
+  margin:0;
+  background-color: lightgrey;
+}
+.aaa{
+  padding: 5px;
+}
+.img-responsive{
+  padding: 5px;
+}
+
+.panel-heading{
+  cursor: pointer;
+}
